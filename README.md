@@ -4,6 +4,16 @@ This is a simple sudoku judger to check your sudoku_solver output whether is cor
 ## How to judge
 
 ### Run
+Run the following command step by step in your terminal.
+
+```
+git clone git@github.com:Howeng98/Sudoku_Judge.git
+```
+
+```
+cd Sudoku_Judge
+```
+
 ```
 ./Source
 ```

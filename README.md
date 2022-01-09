@@ -7,7 +7,7 @@ This is a simple sudoku judger to check your sudoku_solver output whether is cor
 Run the following command step by step in your terminal.
 
 ```
-git clone git@github.com:Howeng98/Sudoku_Judge.git
+git clone https://github.com/Howeng98/Sudoku_Judge.git
 ```
 
 ```
